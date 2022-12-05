@@ -1,3 +1,7 @@
 # This year's progress
 
-![Image of current progress in puzzle competition Advent Of Code 2022](https://i.imgur.com/7T7uRqW.png)
+- [X] Day 1 
+- [X] Day 2 
+- [X] Day 3 
+- [X] Day 4 
+
